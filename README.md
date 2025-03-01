@@ -12,6 +12,7 @@ Importance of software engineering to technology industry.
 1. E
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+i). 1968: The first 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
