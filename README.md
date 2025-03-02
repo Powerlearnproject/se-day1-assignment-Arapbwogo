@@ -5,14 +5,16 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is a branch of computer science that deals with manipulations of software applications by using programming languages to provide solutions to end user.
+Importance of software engineering in the technology industry.
+1. With the improvement and advancement of technology, software engineering airs out and create awareness of what has changed in the new versions or the updated programming languages. 
+2. It's also useful in companies, institutions and organisations in providing solutions to its members, employers or employees since most if not all sectors nowadays are computerized.
+3. Through software engineering, an organisation can easily arrange its operations.
 
-Software engineeering is the application  and use of programming languages to provide solutions to the end user.
-
-Importance of software engineering to technology industry.
-1. E
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-i). 1968: The first 
+i). 1948: The first compiler which translates human-readable code into machine code ws developed by Grace Brewster Murray Hopper who was a computer pioneer and naval officer.
+ii). 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
