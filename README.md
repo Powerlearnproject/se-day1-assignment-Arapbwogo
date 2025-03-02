@@ -13,7 +13,9 @@ Importance of software engineering in the technology industry.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 i). 1948: The first compiler which translates human-readable code into machine code ws developed by Grace Brewster Murray Hopper who was a computer pioneer and naval officer.
+
 ii). 
 
 
