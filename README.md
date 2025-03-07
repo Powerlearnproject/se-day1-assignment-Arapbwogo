@@ -13,13 +13,13 @@ Importance of software engineering in the technology industry.
 2. It's also useful in companies, institutions and organisations in providing solutions to its members, employers or employees since most if not all sectors nowadays are computerized.
 3. Through software engineering, an organisation can easily arrange its operations.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-i). 1948: The first compiler which translates human-readable code into machine code ws developed by Grace Brewster Murray Hopper who was a computer pioneer and naval officer.
+i). 1950s: Early programming in assembly and machine languages.
 
-ii). 
+ii). 1960s: Rising complexity that led to inefficiencies and failures then the introductio of the structured programming by(Bohm and Jacopini).
 
+iii). 1970s: Association for Computing Machinery (ACM) and Institute of Electrical and Electronics Engineers (IEEE) formalized software engineering principles. Also its durign the same time that Waterfall model was introduced for stractured development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -119,5 +119,7 @@ Prompt engineering is the practice of designing inputs for AI tools that will pr
 Importance of prompt engineering in interacting with AI models.
 
 The rapidly emerging role in the AI ecosystem transforms how we interact with and develop AI systems. Its criticality is bridging the gap between raw AI capabilities and real-world applications.
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 vague prompt example is "What is the role of scientific studying living organisms". Hence the improved prompt of this vague prompt is "Give the importance of biology".
