@@ -23,11 +23,45 @@ ii).
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+Phase 1: Planning; Involves defining the software's purpose and scope, much like pinpointing our destination and plotting the best route.
 
+Phase 2: Requirements analysis; Seeks to identify and record the precise requirements of the final users.
+
+Phase 3: Design; Its all about building the framework.
+
+Phase 4: Coding; It is when engineers and developers get down to business and start converting the software design into tangible code
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Phase 5: Testing; A stringent quality inspection on a production line (i.e when vulnerabilities are uncovered).
+
+Phase 6: Deployment; Involves rolling out the meticulously tested and fine-tuned software to its end-users.
+
+Phase 7: Maintenance; Characterized by constant assistance and improvement, which guarantees the software's best possible functioning and longevity and ensures it meets customer expectations.
+
+Waterfall methodology is a linear and sequential approach where each phase must be completed prior to moving on to the next step. The phases include requirements, design, implementation, testing, deployment, and maintenance while agile methodology is an iterative and incremental approach that emphasizes flexibility and collaboration between cross-functional teams. When implementing an agile model, requirements and solutions evolve through collaboration and adaptation to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Software developer:
+1. Understanding their clients' requirements and specifications.
+2. Writing code to develop the application, creating prototypes, testing the app before it's launched and debugging the app as errors are encountered.
+
+A quality assurance engineer:
+1. Preventing issues.
+2. Creating test plans.
+3. Executing tests.
+4. Identifying and reporting issues.
+5. Managing bugs.
+6. Automating tests.
+7. Continuously improving the testing process.
+8. Get relevant education.
+
+A project manager:
+1. Planning Everything from Execution to Delivery.
+2. Oversee the Software Development Team.
+3. Delegating Work Effectively.
+4. Monitoring Progress and Tracking Roadblocks.
+5. Managing the Deployment Deliverables.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
