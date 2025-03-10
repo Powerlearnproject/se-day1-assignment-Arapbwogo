@@ -109,7 +109,7 @@ Importance of testing in software quality assurance.
 5. Optimization – Testing provides vital feedback that can be used to continuously improve software quality, user experience, security, performance and other product attributes.
 6. Cost Savings – Investing in testing activities reduces downstream costs related to defects found post–release. It is much cheaper to find and fix bugs earlier in the development cycle.
 
-#Part 2: Introduction to AI and Prompt Engineering
+#Part 2: Introduction to AI and Prompt Engineering. 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
